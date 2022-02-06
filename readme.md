@@ -1,6 +1,6 @@
 # Entity Framework Core working with dates
 
-Provides several useful examples for working with dates in Entity Framework Core 5, SQL-Server using C# with Windows Forms although the base code presented can be used in other project types.
+Provides several useful examples for working with `dates` in `Entity Framework Core 5`, `SQL-Server` using C# with Windows Forms although the base code presented can be used in other project types.
 
 ### More samples will be added over time.
 
